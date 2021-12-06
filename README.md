@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankita Kataria
 - 👀 I’m interested in coding and want to contribute in open source
-- 🌱 I’m currently learning java and cloud computing
+- 🌱 I’m currently learning java 
 
 
 
