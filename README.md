@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ankita Kataria
 - I am a 4th year cse student
+- SDE intern @Tata 1mg
 - 👀 I’m interested in coding and want to contribute in open source
-- 🌱 I’m currently learning ML
+- 🌱 React Js
 
 
 
