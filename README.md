@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankita Kataria
-- I am a 3rd year cse student
+- I am a 4th year cse student
 - 👀 I’m interested in coding and want to contribute in open source
 - 🌱 I’m currently learning ML
 
