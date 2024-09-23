@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankita Kataria
-- Software Engineer
 - SDE 1 @Tata 1mg
+- MERN STACK
 - 👀 I’m interested in coding and want to contribute in open source
 - 🌱 React Js
 
