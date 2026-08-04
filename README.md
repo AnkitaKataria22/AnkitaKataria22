@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Ankita Kataria
-- SDE 1 @Tata 1mg
-- MERN STACK
-- 👀 I’m interested in coding and want to contribute in open source
-- 🌱 React Js
-
+### 👋 Hi, I'm Ankita Kataria
+ 
+SDE @ Tata 1mg, Building full-stack, AI-integrated applications.
+ 
+- 🔭 Currently building **[Resume Evaluator](https://github.com/AnkitaKataria22/Resume-Evaluator)** — a full-stack app using FastAPI, React, and an LLM-driven pipeline (Groq + Pydantic) to score resume-to-job-description fit. [Live demo →](https://resume-evaluator-azure.vercel.app)
+- 🌱 Deepening my skills in **FastAPI, backend architecture, and applied LLM engineering** (structured outputs, prompt design)
+- 💻 Comfortable across the stack: **React, Node/Express (MERN), FastAPI, Python**
+- 👀 Interested in **AI engineering** and how LLMs get integrated into real production systems, not just demos
 
 
 
